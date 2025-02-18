@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Brujula</string>
+
+    <string name="textView_titulo">Brújula</string>
+    <string name="textView_grados">Grados
+    inclinación: 0</string>
+    <string name="imageView_brujula">Imagen de
+        Brújula</string>
+</resources>
